@@ -11,10 +11,10 @@ Final-year project, Dept. of IoT & Cybersecurity incl. Blockchain Technology, SM
 
 ## How it works
 
-1. **Drive:** the phone joins the boat's own Wi-Fi and steers with on-screen buttons.
-2. **Detect:** an HC-SR04 ultrasonic sensor at the conveyor mouth spots waste under 20 cm (3 readings in a row).
-3. **Lift:** the boat stops and the conveyor belt carries the waste into the bin.
-4. **Alert:** an IR sensor on the bin wall detects a full bin, stops the conveyor and shows **FULL** on the phone.
+>1. **Drive:** the phone joins the boat's own Wi-Fi and steers with on-screen buttons.
+>2. **Detect:** an HC-SR04 ultrasonic sensor at the conveyor mouth spots waste under 20 cm (3 readings in a row).
+>3. **Lift:** the boat stops and the conveyor belt carries the waste into the bin.
+>4. **Alert:** an IR sensor on the bin wall detects a full bin, stops the conveyor and shows **FULL** on the phone.
 
 ## Hardware
 
