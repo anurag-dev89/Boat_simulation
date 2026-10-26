@@ -73,9 +73,9 @@ See [`wiring_guide.md`](wiring_guide.md) for the full step-by-step guide, test o
 
 Arduino C++ for the ESP32 (board: **ESP32 Dev Module**, ESP32 core by Espressif).
 
-1. Open `boat_firmware.ino` in Arduino IDE and upload.
-2. On your phone, join Wi-Fi **RiverBoat** (password `boat12345`).
-3. Open **http://192.168.4.1**.
+>1. Open `boat_firmware.ino` in Arduino IDE and upload.
+>2. On your phone, join Wi-Fi **RiverBoat** (password `boat12345`).
+>3. Open **http://192.168.4.1**.
 
 Page features: hold-to-drive buttons, speed slider, conveyor switch, auto-collect switch, live bin / distance / battery status.
 
